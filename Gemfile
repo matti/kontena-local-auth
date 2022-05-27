@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.2.4'
 
-gem 'rack', '~> 1.5.2'
+gem 'rack', '~> 1.6.13'
 gem 'roda', '~> 1.3.0'
 gem 'tilt-jbuilder'
 gem 'mutations'
